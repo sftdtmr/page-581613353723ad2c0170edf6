@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6cf3bdef63d7193d9cd0776c",
+  "owner": "sftdtmr",
+  "repo": "page-581613353723ad2c0170edf6",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "581613353723ad2c0170edf6",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "71d361badfc964bb67ef72cf90bf335dfd90c5f6f5dcbb0aff41f4c1e02abed1",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云是一款稳定高效的VPN加速器，提供多种套餐选择，官网下载客户端，助力畅快上网和流媒体解锁。",
+          "AI_DESCRIPTION": "龙猫云是一款稳定高效的VPN加速器，提供多种套餐选择，官网下载客户端，助力畅快上网和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    <style>\n        :root {\n            --coral: #ff6b6b;\n            --warm-white: #f8f5f0;\n            --dark: #2c3e50;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            background: var(--warm-white);\n            color: var(--dark);\n            line-height: 1.6;\n        }\n        header {\n            background: #fff;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 2rem;\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--coral);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: var(--dark);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .hero {\n            background: linear-gradient(135deg, #fff7ed 0%, #ffe5d0 100%);\n            padding: 4rem 2rem;\n            text-align: center;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .hero h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n            color: #ff6b6b;\n        }\n        .hero p {\n            font-size: 1.2rem;\n            margin-bottom: 2rem;\n            color: #555;\n        }\n        .cta-button {\n            background: var(--coral);\n            color: white;\n            padding: 0.75rem 2rem;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: bold;\n            display: inline-block;\n            margin-right: 1rem;\n        }\n        .cta-button.secondary {\n            background: transparent;\n            border: 2px solid var(--coral);\n            color: var(--coral);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem;\n        }\n        section {\n            margin-bottom: 4rem;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: #ff6b6b;\n            border-bottom: 3px solid var(--warm-white);\n            padding-bottom: 0.5rem;\n        }\n        ul, ol {\n            padding-left: 1.5rem;\n        }\n        li {\n            margin-bottom: 0.75rem;\n        }\n        .faq {\n            display: flex;\n            flex-direction: column;\n            gap: 1rem;\n        }\n        details {\n            background: white;\n            padding: 1rem;\n            border-radius: 8px;\n            box-shadow: 0 2px 5px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #2c3e50;\n            color: white;\n            text-align: center;\n            padding: 2rem;\n        }\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 2.5rem;\n            }\n            .nav-links {\n                gap: 1rem;\n                font-size: 0.9rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">龙猫云</div>\n            <div class=\"nav-links\">\n                <a href=\"#intro\">首页</a>\n                <a href=\"#scenarios\">场景</a>\n                <a href=\"#guide\">指南</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <section class=\"hero\">\n        <h1>龙猫云</h1>\n        <p>稳定高效的 VPN 加速器与机场服务</p>\n        <a href=\"#plans\" class=\"cta-button\">查看套餐</a>\n        <a href=\"#faq\" class=\"cta-button secondary\">了解更多</a>\n    </section>\n    <main>\n        <section id=\"intro\">\n            <h2>什么是龙猫云？</h2>\n            <p>龙猫云是一款专业的VPN加速器，专注于为您提供安全快速的网络加速服务。通过先进的线路选择，帮助用户畅享无忧的上网体验。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>适用场景</h2>\n            <ul>\n                <li>家庭共享网络加速</li>\n                <li>办公远程访问</li>\n                <li>跨境旅行加速</li>\n                <li>在线游戏优化</li>\n            </ul>\n        </section>\n        <section id=\"guide\">\n            <h2>使用指南</h2>\n            <ol>\n                <li>访问官网下载客户端</li>\n                <li>安装并配置软件</li>\n                <li>注册账号登录</li>\n                <li>选择节点连接网络</li>\n            </ol>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\">\n            <h2>用户口碑</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>龙猫云是什么？</summary>\n                    <p>龙猫云是一款专业的VPN加速器，提供稳定高速的网络连接服务。</p>\n                </details>\n                <details>\n                    <summary>支持多少设备在线？</summary>\n                    <p>根据套餐不同，支持3至20台设备同时在线。</p>\n                </details>\n                <details>\n                    <summary>如何解锁流媒体？</summary>\n                    <p>连接对应线路节点即可解锁主流流媒体平台。</p>\n                </details>\n                <details>\n                    <summary>节点覆盖范围？</summary>\n                    <p>拥有丰富节点池，满足全球不同地区需求。</p>\n                </details>\n                <details>\n                    <summary>售后服务支持？</summary>\n                    <p>提供7x24优先工单支持，快速响应用户需求。</p>\n                </details>\n            </div>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 龙猫云 版权所有</p>\n    </footer>\n\n",
+          "hash": "cef2f3f4cc70c5f52caa99380d432f2087056988850da830ad55b6b879937500",
+          "seo": {
+            "title": "龙猫云 VPN 加速器 - 客户端下载",
+            "keywords": "龙猫云, VPN, 加速器, 机场, 客户端下载, 官网",
+            "description": "龙猫云是一款稳定高效的VPN加速器，提供多种套餐选择，官网下载客户端，助力畅快上网和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "a.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "miaotk.cn",
+      "url": "https://miaotk.cn/",
+      "label": "少数派",
+      "apex": "miaotk.cn",
+      "kind": null,
+      "identity": "bfyahuuga/page-bbdd0c35152c7a4436e430fb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f18cdc29ba07d391c0cceb7116a970c53185d2353189420493eecd0d13ed69c4",
+    "sitemap.xml": "5f0a922e1f6f99c1cefe290645a4c6890da1c87a7f8c4899eae26cdf1d8390a4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c1ffc1fd28306611d05cff2d81b709c3b6d34f59b962b46ee12befb3164f759b",
+    "robots.txt": "5db7b43811fdb409d1207a4a7a7718cb24ea89c5196b4fc34d2b9ae0cc5a4b49",
+    "d8157203d1c9ae4753c9f91bdfd3ce92.txt": "442dd90233dd36e5935555c61b4be21ded50fb830ecb8c3bb61d9c11d4002516"
+  },
+  "revision": "b7ffb09fff90a37c2788b57931eae5e2749df737c5ab054473b68bde8e57d5dd"
+}
